@@ -1,1 +1,1 @@
-https://github.com/mertkanalacahan/poetry-issue-analyzer/pull/6
+https://github.com/savanidarsh/poetry-issue-analyzer/pull/2
